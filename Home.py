@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 st.set_page_config( layout="centered")
 
 st.title('KNN Classification - Iris Dataset')
-st.header('น้องกิตตฺศักดิ์เองครับ')
+st.header('น้องกิตติศักดิ์เองครับ')
 
 st.image("./img/1704165478897.jpg")
 
