@@ -6,6 +6,6 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
 
-st.header('kairung')
-st.image("./pic/pro.jpg")
+st.header('Kittisak')
+st.image("./img/pro.jpg")
 col1, col2, col3 = st.columns(3)
