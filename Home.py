@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 st.title('KNN Classification - Iris Dataset')
-st.header('Kittisak')
+st.header('น้องกิตตฺศักดิ์ เองครับ')
 
 # แสดงรูปหลัก
 st.image("./img/1704165478897.jpg")
