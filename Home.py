@@ -8,7 +8,7 @@ st.title('KNN Classification - Iris Dataset')
 st.header('Kittisak')
 
 # แสดงรูปหลัก
-st.image("./img/pro.jpg")
+st.image("./img/1704165478897.jpg")
 
 # แสดงรูปทั้ง 3 แบบ แบ่งเป็นคอลัมน์
 col1, col2, col3 = st.columns(3)
