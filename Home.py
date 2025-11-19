@@ -4,18 +4,23 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+st.title('KNN Classification - Iris Dataset')
 st.header('Kittisak')
+
+# แสดงรูปหลัก
 st.image("./img/pro.jpg")
+
+# แสดงรูปทั้ง 3 แบบ แบ่งเป็นคอลัมน์
 col1, col2, col3 = st.columns(3)
 
 with col1:
-   st.header("Versicolor")
-   st.image("./img/iris1.jpg")
+    st.subheader("Versicolor")
+    st.image("./img/iris1.jpg")
 
 with col2:
-   st.header("Verginiga")
-   st.image("./img/iris2.jpg")
+    st.subheader("Virginica")
+    st.image("./img/iris2.jpg")
 
 with col3:
-   st.header("Setosa")
-   st.image("./img/iris3.jpg")
+    st.subheader("Setosa")
+    st.image("./img/iris3.jpg")
